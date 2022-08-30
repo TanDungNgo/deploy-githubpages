@@ -14,6 +14,7 @@ import {
   Area,
   AreaChart,
 } from "recharts";
+import { FaMap, FaChartLine } from "react-icons/fa";
 function App() {
   const [listCity, setListCity] = useState([]);
   const [totalPopulation, setTotalPopulation] = useState([]);
@@ -107,7 +108,7 @@ function App() {
       <div className="wrapper">
         <div className="header">
           <h2>
-            {/* <FaChartLine className="icon" /> */}
+            <FaChartLine className="icon" />
             このグラフは、日本の行政単位（地区）ごとの人口の変化を示しています
           </h2>
         </div>
@@ -115,7 +116,7 @@ function App() {
           <div className="sidebar">
             <div className="box">
               <h4>
-                {/* <FaMap className="icon" /> */}
+                <FaMap className="icon" />
                 日本の行政単位
               </h4>
               <div>
