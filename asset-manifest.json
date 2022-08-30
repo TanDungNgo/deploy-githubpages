@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/deploy-githubpages/static/css/main.073c9b0a.css",
-    "main.js": "/deploy-githubpages/static/js/main.07cf2ee9.js",
+    "main.css": "/deploy-githubpages/static/css/main.b621a3c5.css",
+    "main.js": "/deploy-githubpages/static/js/main.ae124a46.js",
     "static/js/787.39ad283f.chunk.js": "/deploy-githubpages/static/js/787.39ad283f.chunk.js",
     "index.html": "/deploy-githubpages/index.html",
-    "main.073c9b0a.css.map": "/deploy-githubpages/static/css/main.073c9b0a.css.map",
-    "main.07cf2ee9.js.map": "/deploy-githubpages/static/js/main.07cf2ee9.js.map",
+    "main.b621a3c5.css.map": "/deploy-githubpages/static/css/main.b621a3c5.css.map",
+    "main.ae124a46.js.map": "/deploy-githubpages/static/js/main.ae124a46.js.map",
     "787.39ad283f.chunk.js.map": "/deploy-githubpages/static/js/787.39ad283f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.07cf2ee9.js"
+    "static/css/main.b621a3c5.css",
+    "static/js/main.ae124a46.js"
   ]
 }
